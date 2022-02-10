@@ -1,0 +1,1 @@
+ctrl+shift+N 新建文件夹
